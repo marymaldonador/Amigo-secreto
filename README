@@ -1,1 +1,17 @@
-https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+<em> # Challenge Alura - Proyecto Amigo secreto  </em>
+
+En esta aplicación, permite que el usuario al añadir nombres de amigos a una lista, estos se puedan utilizar para realizar un sorteo y poder elegir de manera aleatoria quien será el amigo secreto.
+
+Limitaciones:
+La aplicación no permitirá campos vacios sin nombres y arrojará un mensaje al respecto, por lo que se debe ingresar nombre de amigo si se quieren añadir a la base para el sorteo a través del botón "Añadir".
+Si ingresaste un nombre que quieres quitar de la lista, debes actualizar la aplicación para comenzar nuevamente con la lista de amigos, ya que nombre añadido es nombre que se utilizará para el sorteo.
+
+Si ya ingresaste todos los nombre de amigos, haz click en "Sortear Amigo" y la aplicación te dirá cual será el resultado del sorteo, mostrandote en pantalla el nombre de:  ¡¡Tu amigo secreto!! ✨✨
+
+\## 📁 Acceso al proyecto
+
+Haz click en el siguiente link que te llevará a .....
+......
+
+
+
