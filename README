@@ -1,4 +1,4 @@
-<em> # Challenge Alura - Proyecto Amigo secreto  </em>
+<h1><em> # Challenge Alura - Proyecto Amigo secreto  </em></h1>
 
 En esta aplicación, permite que el usuario al añadir nombres de amigos a una lista, estos se puedan utilizar para realizar un sorteo y poder elegir de manera aleatoria quien será el amigo secreto.
 
@@ -8,10 +8,15 @@ Si ingresaste un nombre que quieres quitar de la lista, debes actualizar la apli
 
 Si ya ingresaste todos los nombre de amigos, haz click en "Sortear Amigo" y la aplicación te dirá cual será el resultado del sorteo, mostrandote en pantalla el nombre de:  ¡¡Tu amigo secreto!! ✨✨
 
-\## 📁 Acceso al proyecto
+\## 📁 Tecnologías utilizadas para el desarrollo
+-Javascrip
+-HTML
+-CSS
 
-Haz click en el siguiente link que te llevará a .....
-......
+Que inicie la aventura...Descubre tu amigo secreto 🎲
+
+
+Haz click en el siguiente link que te llevará a la aplicación:
 
 
 
